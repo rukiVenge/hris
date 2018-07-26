@@ -1,0 +1,139 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 02/04/2018 10:24
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-001-building:before { content: "\f100"; }
+.flaticon-002-protection:before { content: "\f101"; }
+.flaticon-003-diamond:before { content: "\f102"; }
+.flaticon-004-placeholder:before { content: "\f103"; }
+.flaticon-005-money-3:before { content: "\f104"; }
+.flaticon-006-point-of-service:before { content: "\f105"; }
+.flaticon-007-screen:before { content: "\f106"; }
+.flaticon-008-bank:before { content: "\f107"; }
+.flaticon-009-atm:before { content: "\f108"; }
+.flaticon-010-briefcase:before { content: "\f109"; }
+.flaticon-011-currency:before { content: "\f10a"; }
+.flaticon-012-employee:before { content: "\f10b"; }
+.flaticon-013-funds:before { content: "\f10c"; }
+.flaticon-014-shop:before { content: "\f10d"; }
+.flaticon-015-safebox:before { content: "\f10e"; }
+.flaticon-016-contract:before { content: "\f10f"; }
+.flaticon-017-scale:before { content: "\f110"; }
+.flaticon-018-piggy-bank:before { content: "\f111"; }
+.flaticon-019-invoice:before { content: "\f112"; }
+.flaticon-020-credit-card:before { content: "\f113"; }
+.flaticon-021-mail:before { content: "\f114"; }
+.flaticon-022-money-2:before { content: "\f115"; }
+.flaticon-023-funnel:before { content: "\f116"; }
+.flaticon-024-calculator:before { content: "\f117"; }
+.flaticon-025-refund:before { content: "\f118"; }
+.flaticon-026-bitcoin:before { content: "\f119"; }
+.flaticon-027-yen:before { content: "\f11a"; }
+.flaticon-028-box:before { content: "\f11b"; }
+.flaticon-029-shield:before { content: "\f11c"; }
+.flaticon-030-wallet:before { content: "\f11d"; }
+.flaticon-031-cogwheel:before { content: "\f11e"; }
+.flaticon-032-stopwatch:before { content: "\f11f"; }
+.flaticon-033-award:before { content: "\f120"; }
+.flaticon-034-money-1:before { content: "\f121"; }
+.flaticon-035-goal:before { content: "\f122"; }
+.flaticon-036-economy:before { content: "\f123"; }
+.flaticon-037-euro:before { content: "\f124"; }
+.flaticon-038-gold:before { content: "\f125"; }
+.flaticon-039-chart-1:before { content: "\f126"; }
+.flaticon-040-money-bag:before { content: "\f127"; }
+.flaticon-041-cheque:before { content: "\f128"; }
+.flaticon-042-growth:before { content: "\f129"; }
+.flaticon-043-money:before { content: "\f12a"; }
+.flaticon-044-search:before { content: "\f12b"; }
+.flaticon-045-chart:before { content: "\f12c"; }
+.flaticon-046-qr-code:before { content: "\f12d"; }
+.flaticon-047-pound:before { content: "\f12e"; }
+.flaticon-048-tie:before { content: "\f12f"; }
+.flaticon-049-profit:before { content: "\f130"; }
+.flaticon-050-shopping-cart:before { content: "\f131"; }
+    
+    $font-Flaticon-001-building: "\f100";
+    $font-Flaticon-002-protection: "\f101";
+    $font-Flaticon-003-diamond: "\f102";
+    $font-Flaticon-004-placeholder: "\f103";
+    $font-Flaticon-005-money-3: "\f104";
+    $font-Flaticon-006-point-of-service: "\f105";
+    $font-Flaticon-007-screen: "\f106";
+    $font-Flaticon-008-bank: "\f107";
+    $font-Flaticon-009-atm: "\f108";
+    $font-Flaticon-010-briefcase: "\f109";
+    $font-Flaticon-011-currency: "\f10a";
+    $font-Flaticon-012-employee: "\f10b";
+    $font-Flaticon-013-funds: "\f10c";
+    $font-Flaticon-014-shop: "\f10d";
+    $font-Flaticon-015-safebox: "\f10e";
+    $font-Flaticon-016-contract: "\f10f";
+    $font-Flaticon-017-scale: "\f110";
+    $font-Flaticon-018-piggy-bank: "\f111";
+    $font-Flaticon-019-invoice: "\f112";
+    $font-Flaticon-020-credit-card: "\f113";
+    $font-Flaticon-021-mail: "\f114";
+    $font-Flaticon-022-money-2: "\f115";
+    $font-Flaticon-023-funnel: "\f116";
+    $font-Flaticon-024-calculator: "\f117";
+    $font-Flaticon-025-refund: "\f118";
+    $font-Flaticon-026-bitcoin: "\f119";
+    $font-Flaticon-027-yen: "\f11a";
+    $font-Flaticon-028-box: "\f11b";
+    $font-Flaticon-029-shield: "\f11c";
+    $font-Flaticon-030-wallet: "\f11d";
+    $font-Flaticon-031-cogwheel: "\f11e";
+    $font-Flaticon-032-stopwatch: "\f11f";
+    $font-Flaticon-033-award: "\f120";
+    $font-Flaticon-034-money-1: "\f121";
+    $font-Flaticon-035-goal: "\f122";
+    $font-Flaticon-036-economy: "\f123";
+    $font-Flaticon-037-euro: "\f124";
+    $font-Flaticon-038-gold: "\f125";
+    $font-Flaticon-039-chart-1: "\f126";
+    $font-Flaticon-040-money-bag: "\f127";
+    $font-Flaticon-041-cheque: "\f128";
+    $font-Flaticon-042-growth: "\f129";
+    $font-Flaticon-043-money: "\f12a";
+    $font-Flaticon-044-search: "\f12b";
+    $font-Flaticon-045-chart: "\f12c";
+    $font-Flaticon-046-qr-code: "\f12d";
+    $font-Flaticon-047-pound: "\f12e";
+    $font-Flaticon-048-tie: "\f12f";
+    $font-Flaticon-049-profit: "\f130";
+    $font-Flaticon-050-shopping-cart: "\f131";

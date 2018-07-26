@@ -1,0 +1,139 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 07/03/2018 11:33
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-001-like-3:before { content: "\f100"; }
+.flaticon-002-search:before { content: "\f101"; }
+.flaticon-003-feedback-7:before { content: "\f102"; }
+.flaticon-004-laptop:before { content: "\f103"; }
+.flaticon-005-rating:before { content: "\f104"; }
+.flaticon-006-quality:before { content: "\f105"; }
+.flaticon-007-comments:before { content: "\f106"; }
+.flaticon-008-feedback-6:before { content: "\f107"; }
+.flaticon-009-favorite:before { content: "\f108"; }
+.flaticon-010-love:before { content: "\f109"; }
+.flaticon-011-dislike:before { content: "\f10a"; }
+.flaticon-012-review-2:before { content: "\f10b"; }
+.flaticon-013-feedback-5:before { content: "\f10c"; }
+.flaticon-014-clipboard:before { content: "\f10d"; }
+.flaticon-015-notes:before { content: "\f10e"; }
+.flaticon-016-review-1:before { content: "\f10f"; }
+.flaticon-017-testimonial-1:before { content: "\f110"; }
+.flaticon-018-headset:before { content: "\f111"; }
+.flaticon-019-checklist-1:before { content: "\f112"; }
+.flaticon-020-megaphone:before { content: "\f113"; }
+.flaticon-021-satisfied:before { content: "\f114"; }
+.flaticon-022-feedback-4:before { content: "\f115"; }
+.flaticon-023-smartphone:before { content: "\f116"; }
+.flaticon-024-rate:before { content: "\f117"; }
+.flaticon-025-like-2:before { content: "\f118"; }
+.flaticon-026-review:before { content: "\f119"; }
+.flaticon-027-user:before { content: "\f11a"; }
+.flaticon-028-trophy:before { content: "\f11b"; }
+.flaticon-029-feedback-3:before { content: "\f11c"; }
+.flaticon-030-testimonials:before { content: "\f11d"; }
+.flaticon-031-zoom-in:before { content: "\f11e"; }
+.flaticon-032-quote:before { content: "\f11f"; }
+.flaticon-033-bad-review:before { content: "\f120"; }
+.flaticon-034-good-review:before { content: "\f121"; }
+.flaticon-035-feedback-2:before { content: "\f122"; }
+.flaticon-036-phone-call:before { content: "\f123"; }
+.flaticon-037-email-1:before { content: "\f124"; }
+.flaticon-038-email:before { content: "\f125"; }
+.flaticon-039-testimonial:before { content: "\f126"; }
+.flaticon-040-chat:before { content: "\f127"; }
+.flaticon-041-vote:before { content: "\f128"; }
+.flaticon-042-folder:before { content: "\f129"; }
+.flaticon-043-id-card:before { content: "\f12a"; }
+.flaticon-044-feedback-1:before { content: "\f12b"; }
+.flaticon-045-feedback:before { content: "\f12c"; }
+.flaticon-046-like-1:before { content: "\f12d"; }
+.flaticon-047-help:before { content: "\f12e"; }
+.flaticon-048-checklist:before { content: "\f12f"; }
+.flaticon-049-medal:before { content: "\f130"; }
+.flaticon-050-like:before { content: "\f131"; }
+    
+    $font-Flaticon-001-like-3: "\f100";
+    $font-Flaticon-002-search: "\f101";
+    $font-Flaticon-003-feedback-7: "\f102";
+    $font-Flaticon-004-laptop: "\f103";
+    $font-Flaticon-005-rating: "\f104";
+    $font-Flaticon-006-quality: "\f105";
+    $font-Flaticon-007-comments: "\f106";
+    $font-Flaticon-008-feedback-6: "\f107";
+    $font-Flaticon-009-favorite: "\f108";
+    $font-Flaticon-010-love: "\f109";
+    $font-Flaticon-011-dislike: "\f10a";
+    $font-Flaticon-012-review-2: "\f10b";
+    $font-Flaticon-013-feedback-5: "\f10c";
+    $font-Flaticon-014-clipboard: "\f10d";
+    $font-Flaticon-015-notes: "\f10e";
+    $font-Flaticon-016-review-1: "\f10f";
+    $font-Flaticon-017-testimonial-1: "\f110";
+    $font-Flaticon-018-headset: "\f111";
+    $font-Flaticon-019-checklist-1: "\f112";
+    $font-Flaticon-020-megaphone: "\f113";
+    $font-Flaticon-021-satisfied: "\f114";
+    $font-Flaticon-022-feedback-4: "\f115";
+    $font-Flaticon-023-smartphone: "\f116";
+    $font-Flaticon-024-rate: "\f117";
+    $font-Flaticon-025-like-2: "\f118";
+    $font-Flaticon-026-review: "\f119";
+    $font-Flaticon-027-user: "\f11a";
+    $font-Flaticon-028-trophy: "\f11b";
+    $font-Flaticon-029-feedback-3: "\f11c";
+    $font-Flaticon-030-testimonials: "\f11d";
+    $font-Flaticon-031-zoom-in: "\f11e";
+    $font-Flaticon-032-quote: "\f11f";
+    $font-Flaticon-033-bad-review: "\f120";
+    $font-Flaticon-034-good-review: "\f121";
+    $font-Flaticon-035-feedback-2: "\f122";
+    $font-Flaticon-036-phone-call: "\f123";
+    $font-Flaticon-037-email-1: "\f124";
+    $font-Flaticon-038-email: "\f125";
+    $font-Flaticon-039-testimonial: "\f126";
+    $font-Flaticon-040-chat: "\f127";
+    $font-Flaticon-041-vote: "\f128";
+    $font-Flaticon-042-folder: "\f129";
+    $font-Flaticon-043-id-card: "\f12a";
+    $font-Flaticon-044-feedback-1: "\f12b";
+    $font-Flaticon-045-feedback: "\f12c";
+    $font-Flaticon-046-like-1: "\f12d";
+    $font-Flaticon-047-help: "\f12e";
+    $font-Flaticon-048-checklist: "\f12f";
+    $font-Flaticon-049-medal: "\f130";
+    $font-Flaticon-050-like: "\f131";

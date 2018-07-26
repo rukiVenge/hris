@@ -1,0 +1,81 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 07/03/2018 11:33
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-001-like-3:before { content: "\f100"; }
+.flaticon-002-search:before { content: "\f101"; }
+.flaticon-003-feedback-7:before { content: "\f102"; }
+.flaticon-004-laptop:before { content: "\f103"; }
+.flaticon-005-rating:before { content: "\f104"; }
+.flaticon-006-quality:before { content: "\f105"; }
+.flaticon-007-comments:before { content: "\f106"; }
+.flaticon-008-feedback-6:before { content: "\f107"; }
+.flaticon-009-favorite:before { content: "\f108"; }
+.flaticon-010-love:before { content: "\f109"; }
+.flaticon-011-dislike:before { content: "\f10a"; }
+.flaticon-012-review-2:before { content: "\f10b"; }
+.flaticon-013-feedback-5:before { content: "\f10c"; }
+.flaticon-014-clipboard:before { content: "\f10d"; }
+.flaticon-015-notes:before { content: "\f10e"; }
+.flaticon-016-review-1:before { content: "\f10f"; }
+.flaticon-017-testimonial-1:before { content: "\f110"; }
+.flaticon-018-headset:before { content: "\f111"; }
+.flaticon-019-checklist-1:before { content: "\f112"; }
+.flaticon-020-megaphone:before { content: "\f113"; }
+.flaticon-021-satisfied:before { content: "\f114"; }
+.flaticon-022-feedback-4:before { content: "\f115"; }
+.flaticon-023-smartphone:before { content: "\f116"; }
+.flaticon-024-rate:before { content: "\f117"; }
+.flaticon-025-like-2:before { content: "\f118"; }
+.flaticon-026-review:before { content: "\f119"; }
+.flaticon-027-user:before { content: "\f11a"; }
+.flaticon-028-trophy:before { content: "\f11b"; }
+.flaticon-029-feedback-3:before { content: "\f11c"; }
+.flaticon-030-testimonials:before { content: "\f11d"; }
+.flaticon-031-zoom-in:before { content: "\f11e"; }
+.flaticon-032-quote:before { content: "\f11f"; }
+.flaticon-033-bad-review:before { content: "\f120"; }
+.flaticon-034-good-review:before { content: "\f121"; }
+.flaticon-035-feedback-2:before { content: "\f122"; }
+.flaticon-036-phone-call:before { content: "\f123"; }
+.flaticon-037-email-1:before { content: "\f124"; }
+.flaticon-038-email:before { content: "\f125"; }
+.flaticon-039-testimonial:before { content: "\f126"; }
+.flaticon-040-chat:before { content: "\f127"; }
+.flaticon-041-vote:before { content: "\f128"; }
+.flaticon-042-folder:before { content: "\f129"; }
+.flaticon-043-id-card:before { content: "\f12a"; }
+.flaticon-044-feedback-1:before { content: "\f12b"; }
+.flaticon-045-feedback:before { content: "\f12c"; }
+.flaticon-046-like-1:before { content: "\f12d"; }
+.flaticon-047-help:before { content: "\f12e"; }
+.flaticon-048-checklist:before { content: "\f12f"; }
+.flaticon-049-medal:before { content: "\f130"; }
+.flaticon-050-like:before { content: "\f131"; }

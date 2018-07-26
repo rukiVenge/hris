@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="56" y="152" width="945" height="609" text="Google Chrome&#xA;http://e-tempus/#/dashboard" measuredWidth="945" measuredHeight="609">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VButtonBar" id="3" x="56" y="272" width="217" height="269" text="Account&#xA;Timesheet&#xA;Payslip&#xA;Leave&#xA;OT&#xA;Request a document&#xA;     " measuredWidth="217" measuredHeight="269" selection="0">
+    <font/>
+    <items x="0" y="0" width="217" height="38" text="Account"/>
+    <items x="0" y="38" width="217" height="37" text="Timesheet"/>
+    <items x="0" y="75" width="217" height="37" text="Payslip"/>
+    <items x="0" y="112" width="217" height="37" text="Leave"/>
+    <items x="0" y="149" width="217" height="37" text="OT"/>
+    <items x="0" y="186" width="217" height="37" text="Request a document"/>
+    <items x="0" y="223" width="217" height="46" text="     "/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="8" x="56" y="204" width="217" height="69" measuredWidth="217" measuredHeight="69" alpha="186" foreground="#666"/>
+  <widgets xsi:type="model:Label" id="14" x="129" y="226" width="144" text="Juan P. Dela Cruz" measuredWidth="144" measuredHeight="25" textAlignment="Center">
+    <font size="14px" italic="false"/>
+  </widgets>
+  <widgets xsi:type="model:SVGImage" id="15" x="74" y="214" width="49" height="49" measuredWidth="49" measuredHeight="49" src="../assets/942793-interview/svg/006-man.svg"/>
+  <widgets xsi:type="model:SVGImage" id="17" x="238" y="506" width="25" height="25" measuredWidth="25" measuredHeight="25" src="../assets/483318-interface/svg/026-logout.svg"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

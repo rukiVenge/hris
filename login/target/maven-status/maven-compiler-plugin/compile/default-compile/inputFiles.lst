@@ -1,0 +1,14 @@
+/Users/markkelvinpineda/workspace/hris/login/src/main/java/com/asdf/hris/auth/model/Role.java
+/Users/markkelvinpineda/workspace/hris/login/src/main/java/com/asdf/hris/auth/model/Login.java
+/Users/markkelvinpineda/workspace/hris/login/src/main/java/com/asdf/hris/auth/web/UserController.java
+/Users/markkelvinpineda/workspace/hris/login/src/main/java/com/asdf/hris/auth/service/SecurityServiceImpl.java
+/Users/markkelvinpineda/workspace/hris/login/src/main/java/com/asdf/hris/auth/service/SecurityService.java
+/Users/markkelvinpineda/workspace/hris/login/src/main/java/com/asdf/hris/auth/service/UserService.java
+/Users/markkelvinpineda/workspace/hris/login/src/main/java/com/asdf/hris/auth/repository/UserRepository.java
+/Users/markkelvinpineda/workspace/hris/login/src/main/java/com/asdf/hris/auth/AuthApplication.java
+/Users/markkelvinpineda/workspace/hris/login/src/main/java/com/asdf/hris/auth/service/UserDetailsServiceImpl.java
+/Users/markkelvinpineda/workspace/hris/login/src/main/java/com/asdf/hris/auth/repository/RoleRepository.java
+/Users/markkelvinpineda/workspace/hris/login/src/main/java/com/asdf/hris/auth/service/UserServiceImpl.java
+/Users/markkelvinpineda/workspace/hris/login/src/main/java/com/asdf/hris/auth/model/User.java
+/Users/markkelvinpineda/workspace/hris/login/src/main/java/com/asdf/hris/auth/WebSecurityConfig.java
+/Users/markkelvinpineda/workspace/hris/login/src/main/java/com/asdf/hris/auth/validator/UserValidator.java
